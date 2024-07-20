@@ -1,0 +1,41 @@
+﻿body {
+    background-image: url("maths.jpg");
+}
+
+
+input[type="text"] {
+    padding: 20px 30px;
+    font-size: 24px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+
+input[type="button"] {
+    width: 100%;
+    padding: 20px 40px;
+    background: rgba(60, 89, 96,1.2);
+    color: rgba(196, 227, 234,0.8);
+    font-size: 24px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+}
+
+
+
+h1 {
+    color: rgba(60, 89, 96);
+    font-family: 'Cascadia Code';
+    border: 3px solid rgb(128, 128, 128);
+    width:15vw;
+}
+
+table {
+    border: 3px solid rgb(128, 128, 128);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    box-shadow: 3px 3px rgba(179, 89, 55 );
+}
